@@ -1,1 +1,1 @@
-
+return {["NEW"]={["device"]="0008666",["password"]="Pass",["expiry"]="01/01/2099",["sid"]="script id"}}
