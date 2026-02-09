@@ -1,1 +1,1 @@
-return {["NEW"]={["device"]="0008666",["password"]="Pass",["expiry"]="09/02/2026",["sid"]="script id"},["MALIK"]={["device"]="ONLYMALIKX",["password"]="X",["expiry"]="21/02/2026",["sid"]="X"}}
+return {["malik"]={["device"]="ss",["password"]="q",["expiry"]="24/02/2026",["sid"]="ss"}}
