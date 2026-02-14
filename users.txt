@@ -1,1 +1,1 @@
-return {["malik"]={["device"]="ss",["password"]="q",["expiry"]="24/02/2026",["sid"]="ss"},["kinzi"]={["device"]="q24",["password"]="kinzi",["expiry"]="12/03/2026",["sid"]="123123"}}
+return {["malik"]={["device"]="ss",["password"]="q",["expiry"]="24/02/2026",["sid"]="ss"},["kinzi"]={["device"]="q24",["password"]="kinzi",["expiry"]="12/03/2026",["sid"]="123123"},["pogi"]={["device"]="reuqesrt",["password"]="test",["expiry"]="08/02/2026",["sid"]="get from request"}}
